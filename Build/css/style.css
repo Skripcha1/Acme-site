@@ -609,11 +609,11 @@ video {
   }
 
   80% {
-    transform: scaleY(1);
+    transform: scaleY(1.2);
   }
 
   100% {
-    transform: scaleY(0.9);
+    transform: scaleY(1);
   }
 }
 
